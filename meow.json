@@ -34,5 +34,17 @@
         "magic": "e",
         "hash": "51aeea8ffa05d2620d35c87463465885e77df13171d5708746df1a9f36d47f35",
         "special": false
+    },
+    {
+        "text": "meowww",
+        "magic": "e",
+        "hash": "",
+        "special": "false"
+    },
+    {
+        "text": "https://cdn.discordapp.com/emojis/1145143030639230996.gif?size=48&name=bounceline&quality=lossless",
+        "magic": "mt",
+        "hash": "5b0e1ceb3173b8ff0de2a262df2abaa0d403bfaea700f399f82a4c9f7226398b",
+        "special": true
     }
 ]
