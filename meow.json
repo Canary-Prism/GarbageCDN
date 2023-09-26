@@ -1,0 +1,38 @@
+[
+    {
+        "text": "meoww",
+        "magic": "e9e5c6c8",
+        "hash": "7aac2a00f29a079023d050d4bef34801cac91153260a8916b4a74055a062b645",
+        "special": true
+    },
+    {
+        "text": "https://cdn.discordapp.com/attachments/961250819154509884/1156311235046944768/th.png",
+        "magic": "frenship",
+        "hash": "92d21f46231bbc41a7d70bcfc378418bbcc728ee26e16b4a112612b24facb3f7",
+        "special": true
+    },
+    {
+        "text": "mroww",
+        "magic": "e",
+        "hash": "c1f026582fe6e8cb620d0c85a72fe421ddded756662a8ec00ed4c297ad10676b",
+        "special": false
+    },
+    {
+        "text": "https://tenor.com/view/omori-meow-basil-gif-10294289376001205943",
+        "magic": "angy",
+        "hash": "4f6779111d3fa5a84e4142d2e3cdbcd8013ad3af9b6c8c0d03706acda212782b",
+        "special": false
+    },
+    {
+        "text": "mrowwww",
+        "magic": "e",
+        "hash": "",
+        "special": false
+    },
+    {
+        "text": "ニャー",
+        "magic": "e",
+        "hash": "51aeea8ffa05d2620d35c87463465885e77df13171d5708746df1a9f36d47f35",
+        "special": false
+    }
+]
